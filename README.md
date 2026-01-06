@@ -10,8 +10,6 @@
 
   ![Abhay Bisht Banner](https://github.com/Znoy108x/Znoy108x/assets/75539409/1b1ea1a5-5a96-440c-94c4-2cd7e21f06aa)
 
-![image](https://github.com/AbHaY108BiShT/AbHaY108BiShT/blob/main/meow.gif?raw=true)
-
 ## Skills
 <table style="height: 452px; width: 778px;" align="center">
 <tbody>
@@ -69,6 +67,8 @@
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 </p>
 </pre>
+
+![image](https://github.com/AbHaY108BiShT/AbHaY108BiShT/blob/main/meow.gif?raw=true)
 
 ## Socials
 
