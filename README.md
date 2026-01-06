@@ -1,3 +1,7 @@
+
+![1500x500](https://github.com/user-attachments/assets/1c80ec67-61d2-449a-8ed7-7ae7999fd0eb)
+
+
 ## About Me
 - Hi, I’m Abhay Bisht, a Full Stack Developer with 1.5 years of full-time experience and 1.5+ years through 5 high-impact internships, building production-grade web and AI-powered applications.
 - My expertise spans TypeScript, MERN Stack, Next.js, React Native, Python & FastAPI, and GenAI systems including LLM-based agentic workflows, RAG, and AI automation.
